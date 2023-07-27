@@ -1,9 +1,9 @@
 <h1 align="center">Salutations, I'm Anubis,</h1>
-<h3 align="center">A passionate teenaged web developer who dares to dream</h3>
+<h3 align="center">A passionate teenaged web developer with aspirations of creating something worth commemorating from absolutely nothing.</h3>
 
-- 👨‍💻 All of my projects are available at [[<[<[]>]>]]([<[<[]>]>])
+- 👨‍💻 All of my projects are available at [portfolio in progress]
 
-- 📫 How to reach me **lordanubisxk@gmail.com**
+- 📫 Reach me via email @ **lordanubisxk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
